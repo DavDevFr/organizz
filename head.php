@@ -1,0 +1,29 @@
+		<!-- meta -->
+		<!--ancienne meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /-->
+		<meta charset="utf-8" />
+		<meta name="author" content="David Devaux">
+		<meta name="copyright" content="David Devaux. Amiens, France" />
+		<meta name="title" content="Organizz - Page Initiale" />
+		<meta name="description" content="Page initiale de Organiz" />
+		<!-- obsolete meta name="keywords" content="favoris, bookmark, liens" /-->
+		<meta http-equiv="Content-Language" content="fr-FR" />
+		<!--meta http-equiv="Cache-Control" content="no-cache">
+		<meta http-equiv="Cache-Control" content="max-age=600" />
+		<meta http-equiv="Pragma" content="no-cache">
+		<meta http-equiv="Expires" content="Wed, 30 Feb 2009 17:00:59 GMT" />
+		<meta http-equiv="Expires" content="0"-->
+
+		<!-- Indexer - suivre - archiver -->
+		<!--meta name="robots" content="all" />         
+		<meta name="robots" content="index,follow,archive" />         
+		<meta name="robots" content="noindex, nofollow, noarchive" /-->
+		<meta name="robots" content="none" />         
+
+		<!--[if lt IE 9]>
+			<script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+		<!-- include -->
+		<link rel="stylesheet" href="css/organiz.css" type="text/css" />
+		<!--link rel="alternate" title="Flux de votre site" href="rss.php" type="application/rss+xml" /-->
+		<!--link rel="icon" href="favicon.ico" type="image/x-icon" /-->

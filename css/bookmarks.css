@@ -1,0 +1,71 @@
+﻿#BlocCategories {
+	height:30%;
+}
+#BlocSsCategories {
+	height:30%;
+}
+#BlocEtiquettes {
+	height:30%;
+}
+
+#BlocInfos {
+	height:45%;
+}
+#BlocConfigs {
+	height:45%;
+}
+#Categories {
+}
+#SousCategories {
+}
+#Etiquettes {
+}
+#Infos {
+}
+#Configs {
+}
+#Infos, #Configs {
+	padding:5px;
+}
+
+#middle {
+	display: block;
+    position: relative;
+	width:100%;
+}
+#Contenu {
+	display: inline-block;
+	xwidth:50%;
+    position: fixed;
+	xfloat:right;
+	overflow : auto;
+	top:62px;
+	left:210px;
+	right:210px;
+	bottom:22px;
+    margin-left: 2px;
+    margin-right: 2px;
+	xmargin:auto;
+	xborder : solid 1px blue;
+	xbackground-color: red;#F0F8FF;
+	xbackground-color: #FFFFFF;
+}
+#Contenu  article{ 
+	opacity:0.8;
+	xdisplay: block;
+	margin-top:0px;
+	margin-bottom:8px;
+	margin-left:6px;
+	margin-right:6px;
+	border : solid 1px gray;
+	border-radius : 5px 5px 5px 5px;
+	cbox-shadow: 0px 0px 4px 1px gray;
+	background-color:#BBBBBB;
+}
+#Contenu  article p{
+	color:white;
+	margin:0px;
+	padding:2px;
+	margin-left:40px;
+	border-left:dotted 1px gray;
+}
