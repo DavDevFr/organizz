@@ -4,7 +4,7 @@
 		<?php require('head.php'); ?>
 		<link rel="stylesheet" href="css/bookmarks.css" type="text/css" />
 
-		<title>Organizz - Bookmarks</title>
+		<title>Organizz - Bookmarks tmp</title>
 	</head>
 <body>
 	<?php require('header.php'); ?>
